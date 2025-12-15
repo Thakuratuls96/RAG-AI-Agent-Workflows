@@ -60,6 +60,7 @@ After this, the document data is ready to be searched by the AI.
 
 ## Workflow Diagram
 
-![RAG Answer Workflow Diagram](./ss/workflow%201.pngrag-answer-workflow.png)
+![RAG Answer Workflow Diagram](./ss/workflow%201.png)
+
 
 ---
