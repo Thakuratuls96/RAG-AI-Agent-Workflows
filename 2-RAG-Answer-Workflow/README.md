@@ -60,7 +60,8 @@ This n8n workflow:
 ---
 
 ## Workflow Diagram
-![RAG Answer Workflow Diagram](./ss/workflow%201.png)
+![RAG Answer Workflow Diagram](./ss/workflow%202.png)
+
 
 
 ---
